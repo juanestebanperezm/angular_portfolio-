@@ -1,0 +1,25 @@
+  .column2 {
+    width:50%;
+    height:100%;
+    position: relative;
+    left: 450px;
+    top:-70px;
+    padding:8% 2% 0 2%;
+  }
+  
+  body {
+    margin:0;
+    padding:0;
+    position: relative;
+    
+    font-family:Helvetica;
+    font-size:22px;
+  }
+  a {
+    color:teal;
+    text-decoration:none;
+  }
+  a:hover {
+    color:purple;
+  }
+  
